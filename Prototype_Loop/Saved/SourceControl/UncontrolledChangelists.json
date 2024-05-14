@@ -9,7 +9,6 @@
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/CONTINGUT_PROTOTIP/HUD.uasset",
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/CONTINGUT_PROTOTIP/MyGameInstance.uasset",
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/MyGameInstance.uasset",
-				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/HUD.uasset",
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/D/JS/KF2R09FS98T4Z1C3UZ0VBP.uasset",
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/CONTINGUT_PROTOTIP/MyAIController.uasset",
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -17,8 +16,17 @@
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/8/EO/UFNCII2QNVBBEWACVCJH3K.uasset",
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/StarterContent/Materials/M_Metal_Rust.uasset",
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/StarterContent/Props/Materials/M_TableRound.uasset",
-				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/A/YP/SO2ON4YNFXO89IIBTD27AH.uasset",
-				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/8/QG/C4Y3TQK69KQGWPGLNX4Q1N.uasset"
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/8/QG/C4Y3TQK69KQGWPGLNX4Q1N.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/CONTINGUT_PROTOTIP/EnemySpawner.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/2/7S/TX8ENULO0AE2UE6C6JZEDU.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/D/ZO/MTODOWK455EVOL2PI4A5BD.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/9/B6/ZVZFK5FKRQN25FMHDGPF4V.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/A/B4/N229N39VJ2LW4LL87JUZHX.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/8/YQ/63FXBIO9T4M2G8A3S4J8HF.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/E/YS/MLDG1YO2M5DKNXGZBLKG41.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/6/SQ/R70SSV2M9ZCN40K7MWZ7MX.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/HUD.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/__ExternalActors__/CONTINGUT_PROTOTIP/Nivells/Room_1/A/YP/SO2ON4YNFXO89IIBTD27AH.uasset"
 			]
 		}
 	]
