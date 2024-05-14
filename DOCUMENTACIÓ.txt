@@ -1,0 +1,36 @@
+Perspectiva: 1a persona
+Gènere: Acció
+Resum: Pseudo-roguelike. Passes 2 mini nivells no procedurals amb enemics, arribes a un lloc per comprar millores, repetir cicle
+
+QUÈ ES NECESSIA?
+-1 enemic amb IA basica
+-1 arma per atacar
+-5 mini nivells
+-1 zona de descans
+-X millores
+
+COM IMPLEMENTAR?
+-Nivells: la sortida del nivell té un array de sales i envia un bool sobre si és l'última del cicle o no
+-Zona Descans: habitació buida amb 2 millores que triar dins d'una pool. Es resetejen cada vegada que entres a la sala
+-Millores: es guarden a un arxiu de guardat, però es borren al morir o obrir el joc.
+
+QUINS CONTROLS TÉ EL JGUADOR?
+-WASD: moure
+-Espai: saltar
+-Clic Esquerre: disparar
+-Clic Dret: ???
+-R: recarregar
+
+QUINES ESTADÍSTIQUES TÉ EL JUGADOR?
+-Vida
+-Mal
+-Velocitat
+-Potència de salt
+-Munició
+-Velocitat de recàrrega
+-Freqüència de tir
+
+QUINES ALTRES COSES PODEN SER MILLORES?
+-Robar vida
+-Explosions??? potser al matar enemics hi ha un % de que explotin
+-Canviar arma (poc probable de fer)
