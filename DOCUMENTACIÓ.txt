@@ -12,7 +12,7 @@ QUÈ ES NECESSIA?
 COM IMPLEMENTAR?
 -Nivells: la sortida del nivell té un array de sales i envia un bool sobre si és l'última del cicle o no
 -Zona Descans: habitació buida amb 2 millores que triar dins d'una pool. Es resetejen cada vegada que entres a la sala
--Millores: es guarden a un arxiu de guardat, però es borren al morir o obrir el joc.
+-Millores: es guarden a un game instance, però es borren al morir.
 
 QUINS CONTROLS TÉ EL JGUADOR?
 -WASD: moure
