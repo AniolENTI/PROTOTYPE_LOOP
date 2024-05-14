@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/GameInstance.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/MyGameInstance.uasset",
+				"D:/GIT_REPOS/PROTOTYPE_LOOP/Prototype_Loop/Content/HUD.uasset",
 				"C:/Users/AniolMoratoGil/Desktop/PROTOTYPE_LOOP/Prototype_Loop/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
