@@ -33,4 +33,5 @@ QUINES ESTADÍSTIQUES TÉ EL JUGADOR?
 QUINES ALTRES COSES PODEN SER MILLORES?
 -Robar vida
 -Explosions??? potser al matar enemics hi ha un % de que explotin
--Canviar arma (poc probable de fer)
+-Canviar arma (poc probable de fer, pero si es fa les coses d'aquesta categoría poden anar incorporat a les armes)
+-Mirar perks del cod
